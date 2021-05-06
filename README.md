@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Link a heroku https://mighty-journey-73417.herokuapp.com/pages/about_us
